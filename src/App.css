@@ -1,0 +1,44 @@
+.App {
+  /* text-align: center; */
+  
+}
+
+.Header {
+  padding-left: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 8vh;
+  width: 100%;
+  background-color: #AB2A19;
+  font-size: 10px;
+  color: white;
+}
+
+img{
+  max-height: 200px;
+}
+
+.flex-product {
+  display: flex;
+  flex-direction: column;
+  content: normal;
+  width: 200px;
+  background-color: #AB2A19;
+  position: absolute;
+  top: 50%;
+  left: 70%;
+}
+
+/* .product-view {
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+  
+  background-color: #AB2A19;
+  position: absolute;
+  top: 15%;
+  left: 10%; */
+
+/* } */
